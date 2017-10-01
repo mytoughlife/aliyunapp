@@ -1,0 +1,23 @@
+{
+  "name": "aliyunapp",
+  "version": "1.0.0",
+  "description": "this is a node app on aliyun",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mytoughlife/aliyunapp.git"
+  },
+  "author": "mytoughlife",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mytoughlife/aliyunapp/issues"
+  },
+  "homepage": "https://aliyun.mytoughlife.com",
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "restify": "^4.3.0"
+  }
+}
